@@ -1,6 +1,3 @@
-
-    <h4>GitHub</h4>
-    <h4>Branching</h4>
-    <h4>Merging</h4>
-    <h4>Tag</h4>
-    <h4>rebase</h4>
+version https://git-lfs.github.com/spec/v1
+oid sha256:6331416d26a5ca41eed36ab7d50551cec830545d90ba2572da8c63d4a9f01214
+size 116
